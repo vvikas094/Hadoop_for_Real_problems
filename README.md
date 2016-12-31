@@ -14,4 +14,4 @@
 4) For those tweets with location information, what lat/long (or city/state) is the centroid?  What was the proportion of tweets with location to those without?
         
         
-The information regarding the programs and their answers are included in the info.docx file. 
+The information regarding the programs and their outputs are included in the info.docx file. 
